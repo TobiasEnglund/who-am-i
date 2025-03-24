@@ -1,9 +1,10 @@
 # who-am-i
 Just some info about myself written in Python, because why not?
 
+```
 class AboutMe:
     """
-    GitHub readme about me
+    GitHub readme in Python form because why not?
     """
 
     def __init__(self):
@@ -70,3 +71,4 @@ class AboutMe:
 if __name__ == "__main__":
     me = AboutMe()
     print(me)
+```
